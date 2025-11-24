@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Elaa Benabdallah
 
-<!--
-**ElaaBenabdallah/elaabenabdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Analytics student** | *Minor in IT* | Junior Data Enthusiast  
+💼 Experience: Sales and Market Research at **TBS Junior Enterprise**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+I enjoy turning data into clear, actionable insights that solve business problems.  
+Currently learning and building projects in **SQL**, **Python**, **PowerBI** and **data visualization**. I’m passionate about analytics, automation, and practical BI solutions.
+
+---
+
+## 💻 Tech & Tools
+- **Languages:** Python(basics), SQL, R (basics)
+- **Data & BI:** Excel, Power BI
+- **Databases:** SQL Server (T-SQL), Apache Cassandra, MongoDB
+- **Other:** Git, Tableau (learning)
+- **Soft skills:** Communication, teamwork, sales experience, problem solving
+
+---
+## 🤝 Open to
+- Internships & part-time roles in Data Analysis / BI  
+- Collaboration on beginner-friendly data projects  
+- Mentorship and learning opportunities
+
+---
+
+## 📫 Get in touch
+- Email: `ella.benabdallah004@mail.com` 
+- LinkedIn: https://www.linkedin.com/in/elaa-benabdallah-4390b5281/
+
+
+
+

@@ -5,13 +5,13 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 I enjoy turning data into clear, actionable insights that solve business problems.  
 Currently learning and building projects in **SQL**, **Python**, **PowerBI** and **data visualization**. I’m passionate about analytics, automation, and practical BI solutions.
 
 ---
 
-## 💻 Tech & Tools
+## Tech & Tools
 - **Languages:** Python(basics), SQL, R (basics)
 - **Data & BI:** Excel, Power BI
 - **Databases:** SQL Server (T-SQL), Apache Cassandra, MongoDB
@@ -19,14 +19,14 @@ Currently learning and building projects in **SQL**, **Python**, **PowerBI** and
 - **Soft skills:** Communication, teamwork, sales experience, problem solving
 
 ---
-## 🤝 Open to
+## Open to
 - Internships & part-time roles in Data Analysis / BI  
 - Collaboration on beginner-friendly data projects  
 - Mentorship and learning opportunities
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 - Email: `ella.benabdallah004@mail.com` 
 - LinkedIn: https://www.linkedin.com/in/elaa-benabdallah-4390b5281/
 
